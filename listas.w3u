@@ -15,7 +15,9 @@
           "name": "Lista tv xtream codes 1",
           "image": "https://ibb.co/QKzVvn7",
           "url": "https://raw.githubusercontent.com/carapaz/listas_wiseplay/refs/heads/main/xtream_code.m3u",
-          "isHost": "true"
+          "online":"true",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+          "import":"true"},
         },
         {
           "name": "Lista tv xtream codes 2",
