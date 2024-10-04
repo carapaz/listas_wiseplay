@@ -1,0 +1,28 @@
+{
+    "name": "Peliculas123",
+    "author": "ʙʏ Tiri©️",
+    "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
+    "info": "peliculas y cortos para la enseñanza/educacion con muchos valores",
+    "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+    "groups": [
+        {
+            "name": "🎞️ 𝙋𝙀𝙇𝙄𝘾𝙐𝙇𝘼𝙎 ",
+            "image": "https: //es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
+            "stations": [
+                
+                {
+                    "name": "bolas de esfera",
+                    "image": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8LMr71B3ByCm2E1U33d9uynudY.jpg",
+                    "url": "https://ok.ru/video/1154677148375",
+                    "isHost" : true
+                },
+                {
+                    "name": "novato",
+                    "image": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+                    "url": "https://ok.ru/video/1193055488727",
+                    "isHost" : true
+                }
+            ]
+        }
+    ]
+}
