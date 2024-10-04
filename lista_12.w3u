@@ -1,0 +1,23 @@
+{
+    "name": "Peliculas12345",
+    "author": "ʙʏ Tiri©️",
+    "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
+    "info": "peliculas y cortos para la enseñanza/educacion con muchos valores",
+    "url": "",
+    "groups": [
+        {
+            "name": "🎞️ 𝙋𝙀𝙇𝙄𝘾𝙐𝙇𝘼𝙎 ",
+            "image": "https: //es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
+            "stations": [
+                
+                {
+                    "name": "canal",
+                    "image": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/s8LMr71B3ByCm2E1U33d9uynudY.jpg",
+                    "url": "http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/7928",
+                    "isHost" : true
+                }
+                
+            ]
+        }
+    ]
+}
