@@ -1,26 +1,3 @@
-{
-    "name": "Peliculas",
-    "author": "ʙʏ Tiri©️",
-    "image": "https://edea.juntadeandalucia.es/bancorecursos/file/1b4085aa-65f0-4de6-8934-a32dafe81f06/1/es-an_2021061812_9124836.zip/transmision-actitudes-valores.jpg",
-    "info": "peliculas y cortos para la enseñanza/educacion con muchos valores",
-    "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
-    "groups": [
-        {
-            "name": "🎞️ 𝙋𝙀𝙇𝙄𝘾𝙐𝙇𝘼𝙎 ",
-            "image": "https: //es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
-            "stations": [
-                {
-                    "name": "ARG-America (TV)(720)",
-                    "image": "http://tv.proyectox.vip:8080/GP24ddfdmdjfjfjf34/xeY8w7VHxM/7928.m3u8",
-                    "info": "carapaz"
-                },
-                {
-                    "name": "Peliculas deporte",
-                    "image": "https://media.tenor.com/ueQRESb5kpUAAAAC/sundeep-kishan-as-hockey-player-in-a1-express-movie-sundeepkishan.gif",
-                    "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinedeporte.m3u",
-                    "info": "carapaz"
-                }
-            ]
-        }
-    ]
-}
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2024/09/Deadpool__Wolverine_poster_usa.webp",el clan de los rompehuesos 2005
+https://filemoon.sx/e/et2hv34ue0fl
