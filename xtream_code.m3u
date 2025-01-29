@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1,AMERICA TV
-https://tatiana2006.pythonanywhere.com/stream?video=AMERICA%20TV&token=admin
+https://tatiana2006.pythonanywhere.com/stream?video=AMERICA%20TV&token=123
 #EXTINF:-1,ANIMAL PLANET
-https://tatiana2006.pythonanywhere.com/stream?video=ANIMAL%20PLANET&token=admin
+https://tatiana2006.pythonanywhere.com/stream?video=ANIMAL%20PLANET&token=123
 #EXTINF:-1,Equipaje de mano
-https://tatiana2006.pythonanywhere.com/stream?video=Equipaje%20de%20mano&token=admin
+https://tatiana2006.pythonanywhere.com/stream?video=Equipaje%20de%20mano&token=123
 #EXTINF:-1,TELESISTEMA
-https://tatiana2006.pythonanywhere.com/stream?video=TELESISTEMA&token=admin
+https://tatiana2006.pythonanywhere.com/stream?video=TELESISTEMA&token=123
+
