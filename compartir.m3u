@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,AMERICA TV
+#EXTINF:-1,AMERICA TV peru
 https://tatiana2006.pythonanywhere.com/stream?video=AMERICA%20TV&token=1234
 #EXTINF:-1,ANIMAL PLANET
 https://tatiana2006.pythonanywhere.com/stream?video=ANIMAL%20PLANET&token=1234
