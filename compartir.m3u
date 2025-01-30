@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://ia902208.us.archive.org/10/items/fox_sports/espn1.jpg" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="http://puntoz.xyz/LOGOS/animal_planet.png" group-title="Documentales",Animal Planet
 https://tatiana2006.pythonanywhere.com/stream?video=ANIMAL%20PLANET&token=mi_contraseña_secreta
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="http://puntoz.xyz/LOGOS/13.png" group-title="Chile",Canal 13
 https://tatiana2006.pythonanywhere.com/stream?video=13&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="america_tv" tvg-name="America TV" tvg-logo="https://newsodin.com/wp-content/uploads/2023/05/Disney_logo.svg_.png" group-title="Latinoamérica",America TV
+#EXTINF:-1 tvg-id="america_tv" tvg-name="America TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/azteca-mx.png" group-title="Latinoamérica",America TV
 https://tatiana2006.pythonanywhere.com/stream?video=AMERICA%20TV&token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://puntoz.xyz/LOGOS/AyE.png" group-title="Entretenimiento",A&E
+https://tatiana2006.pythonanywhere.com/stream?video=A&E&token=mi_contraseña_secreta
