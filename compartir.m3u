@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="http://puntoz.xyz/LOGOS/animal_planet.png" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://ia902208.us.archive.org/10/items/fox_sports/espn1.jpg" group-title="Documentales",Animal Planet
 https://tatiana2006.pythonanywhere.com/stream?video=ANIMAL%20PLANET&token=mi_contraseña_secreta
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="http://puntoz.xyz/LOGOS/13.png" group-title="Chile",Canal 13
 https://tatiana2006.pythonanywhere.com/stream?video=13&token=mi_contraseña_secreta
