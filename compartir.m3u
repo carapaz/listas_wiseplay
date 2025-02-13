@@ -1,18 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deprtes",ESPN 2
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%202&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deprtes",ESPN
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deprtes",ESPN 3
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%203&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deprtes",ESPN 4
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%204&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deprtes",FOX Sports
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports 2" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deprtes",FOX Sports 2
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports%202&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX Sports 3" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deprtes",FOX Sports 3
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports%203&token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deprtes",Fox Sports Premium
-https://tatiana2006.pythonanywhere.com/stream?video=Fox%20Sports%20Premium&token=mi_contraseña_secreta
 
