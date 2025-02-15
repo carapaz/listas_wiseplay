@@ -1,37 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deportes",ESPN 2
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%202&token=32653
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="http://puntoz.xyz/LOGOS/tntseries.png" group-title="Series",TNT Series
-https://tatiana2006.pythonanywhere.com/stream?video=TNT%20Series&token=32653
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="http://puntoz.xyz/LOGOS/tnthd.png" group-title="Peliculas",TNT
-https://tatiana2006.pythonanywhere.com/stream?video=TNT&token=32653
-#EXTINF:-1 tvg-id="spce" tvg-name="Space" tvg-logo="http://puntoz.xyz/LOGOS/space.png" group-title="Peliculas",Space
-https://tatiana2006.pythonanywhere.com/stream?video=Space&token=32653
-#EXTINF:-1 tvg-id="sony" tvg-name="Sony" tvg-logo="http://puntoz.xyz/LOGOS/sonychannel.png" group-title="Peliculas",Sony
-https://tatiana2006.pythonanywhere.com/stream?video=Sony&token=32653
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://i.ibb.co/ydrckRX/TCM.png" group-title="Series",TCM
-https://tatiana2006.pythonanywhere.com/stream?video=TCM&token=32653
-#EXTINF:-1 tvg-id="sonym" tvg-name="Sony movies" tvg-logo="http://puntoz.xyz/LOGOS/sonychannel.png" group-title="Peliculas",Sony movies
-https://tatiana2006.pythonanywhere.com/stream?video=Sony%20movies&token=32653
-#EXTINF:-1 tvg-id="warner" tvg-name="Warner" tvg-logo="http://puntoz.xyz/LOGOS/Warnertv.png" group-title="Series",Warner
-https://tatiana2006.pythonanywhere.com/stream?video=Warner&token=32653
-#EXTINF:-1 tvg-id="universalChannel" tvg-name="Universal Channel" tvg-logo="http://puntoz.xyz/LOGOS/studiouniversal.png" group-title="Peliculas",Universal Channel
-https://tatiana2006.pythonanywhere.com/stream?video=Universal%20Channel&token=32653
-#EXTINF:-1 tvg-id="universalc" tvg-name="Universal Cinema" tvg-logo="http://puntoz.xyz/LOGOS/studiouniversal.png" group-title="Peliculas",Universal Cinema
-https://tatiana2006.pythonanywhere.com/stream?video=Universal%20Cinema&token=32653
-#EXTINF:-1 tvg-id="universalcom" tvg-name="Universal Comedy" tvg-logo="https://i.postimg.cc/yxV8jTMW/UNIVERSAL-COMEDY.png" group-title="Peliculas",Universal Comedy
-https://tatiana2006.pythonanywhere.com/stream?video=Universal%20Comedy&token=32653
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deportes",ESPN
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN&token=32653
-#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports 2" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deportes",FOX Sports 2
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports%202&token=32653
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deportes",ESPN 3
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%203&token=32653
-#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deportes",FOX Sports
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports&token=32653
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Deportes",ESPN 4
-https://tatiana2006.pythonanywhere.com/stream?video=ESPN%204&token=32653
-#EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deportes",Fox Sports Premium
-https://tatiana2006.pythonanywhere.com/stream?video=Fox%20Sports%20Premium&token=32653
-#EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX Sports 3" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Deportes",FOX Sports 3
-https://tatiana2006.pythonanywhere.com/stream?video=FOX%20Sports%203&token=32653
+#EXTINF:-1 tvg-id="" tvg-name="canal5" tvg-logo="" group-title="",canal5
+https://tatiana2006.pythonanywhere.com/stream/canal 5?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="marivisison" tvg-name="mariavision" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Religion",mariavision
+https://tatiana2006.pythonanywhere.com/stream/Maria Vision?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="uj" tvg-name="SUNDANCE" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Peliculas",SUNDANCE
+https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="paramount" tvg-name="PARAMOUNT" tvg-logo="http://puntoz.xyz/LOGOS/sonychannel.png" group-title="Chile",PARAMOUNT
+https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="imagen" tvg-name="Imagen" tvg-logo="http://puntoz.xyz/LOGOS/studiouniversal.png" group-title="Series",Imagen
+https://tatiana2006.pythonanywhere.com/stream/Imagen?token=mi_contraseña_secreta
