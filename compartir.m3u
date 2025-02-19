@@ -1,162 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tudnusa" tvg-name="TUDN USA" tvg-logo="http://puntoz.xyz/LOGOS/tdn.png" group-title="Deportes",TUDN USA
-https://tatiana2006.pythonanywhere.com/stream/Maria Vision.m3u8?token=12345
 #EXTINF:-1 tvg-id="telemundomiami" tvg-name="TELEMUNDO MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",TELEMUNDO MIAMI
-https://tatiana2006.pythonanywhere.com/stream/SUNDANCE.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=12345
 #EXTINF:-1 tvg-id="unimasmiami" tvg-name="UNIMAS MIAMI" tvg-logo="http://puntoz.xyz/LOGOS/unimas.png" group-title="Entretenimiento",UNIMAS MIAMI
-https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=12345
 #EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="http://puntoz.xyz/LOGOS/cinecanal.png" group-title="Peliculas",Cinecanal
-https://tatiana2006.pythonanywhere.com/stream/Imagen.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Imagen?token=12345
 #EXTINF:-1 tvg-id="galavision" tvg-name="GALAVISION" tvg-logo="http://puntoz.xyz/LOGOS/galavision.png" group-title="Entretenimiento",GALAVISION
-https://tatiana2006.pythonanywhere.com/stream/GALAVISION.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/GALAVISION?token=12345
 #EXTINF:-1 tvg-id="univisioneast" tvg-name="UNIVISION EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION EAST
-https://tatiana2006.pythonanywhere.com/stream/UNIVISION EAST.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/UNIVISION EAST?token=12345
 #EXTINF:-1 tvg-id="nbcuniverso" tvg-name="NBC UNIVERSO" tvg-logo="http://puntoz.xyz/LOGOS/UNIVERSO.png" group-title="Entretenimiento",NBC UNIVERSO
-https://tatiana2006.pythonanywhere.com/stream/NBC UNIVERSO.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/NBC UNIVERSO?token=12345
 #EXTINF:-1 tvg-id="maxlatino" tvg-name="MAX LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/320px-Max_logo.svg.png" group-title="Peliculas",MAX LATINO
-https://tatiana2006.pythonanywhere.com/stream/MAX LATINO.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/MAX LATINO?token=12345
 #EXTINF:-1 tvg-id="azteca7" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azteca72024.png/150px-Azteca72024.png" group-title="Entretenimiento",AZTECA 7
-https://tatiana2006.pythonanywhere.com/stream/AZTECA 7.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/AZTECA 7?token=12345
 #EXTINF:-1 tvg-id="cartoon" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon
-https://tatiana2006.pythonanywhere.com/stream/Cartoon.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Cartoon?token=12345
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito
-https://tatiana2006.pythonanywhere.com/stream/Cartoonito.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Cartoonito?token=12345
 #EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas",Cinemax
-https://tatiana2006.pythonanywhere.com/stream/Cinemax.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Cinemax?token=12345
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN
-https://tatiana2006.pythonanywhere.com/stream/CNN.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/CNN?token=12345
 #EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/170px-2019_Discovery_logo.svg.png" group-title="Entretenimiento",Discovery Channel
-https://tatiana2006.pythonanywhere.com/stream/Discovery Channel.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Channel?token=12345
 #EXTINF:-1 tvg-id="discoveryhomehealt" tvg-name="Discovery Home Healt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png" group-title="Entretenimiento",Discovery Home Healt
-https://tatiana2006.pythonanywhere.com/stream/Discovery Home Healt.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Home Healt?token=12345
 #EXTINF:-1 tvg-id="discoveryinvestigation" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Discovery Investigation
-https://tatiana2006.pythonanywhere.com/stream/Discovery Investigation.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Investigation?token=12345
 #EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/200px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantiles",Discovery Kids
-https://tatiana2006.pythonanywhere.com/stream/Discovery Kids.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Kids?token=12345
 #EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento",Discovery Theater
-https://tatiana2006.pythonanywhere.com/stream/Discovery Theater.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Theater?token=12345
 #EXTINF:-1 tvg-id="discoverytlc" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png" group-title="Entretenimiento",Discovery TLC
-https://tatiana2006.pythonanywhere.com/stream/Discovery TLC.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery TLC?token=12345
 #EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo
-https://tatiana2006.pythonanywhere.com/stream/Discovery Turbo.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Turbo?token=12345
 #EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="Entretenimiento",Discovery World
-https://tatiana2006.pythonanywhere.com/stream/Discovery World.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery World?token=12345
 #EXTINF:-1 tvg-id="disney" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney
-https://tatiana2006.pythonanywhere.com/stream/Disney channel.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Disney channel?token=12345
 #EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/200px-Disney_Jr._2024.svg.png" group-title="Infantiles",Disney Junior
-https://tatiana2006.pythonanywhere.com/stream/Disney Junior.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Disney Junior?token=12345
 #EXTINF:-1 tvg-id="fx" tvg-name="Fx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/150px-FX_International_logo.svg.png" group-title="Peliculas",Fx
-https://tatiana2006.pythonanywhere.com/stream/Fx.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Fx?token=12345
 #EXTINF:-1 tvg-id="gourmet" tvg-name="El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/120px-El_Gourmet_logo.svg.png" group-title="Entretenimiento",El Gourmet
-https://tatiana2006.pythonanywhere.com/stream/gourmet.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/gourmet?token=12345
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/133px-HBO_logo.svg.png" group-title="Peliculas",HBO
-https://tatiana2006.pythonanywhere.com/stream/HBO.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO?token=12345
 #EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Peliculas",HBO2
-https://tatiana2006.pythonanywhere.com/stream/HBO2.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO2?token=12345
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Peliculas",HBO Family
-https://tatiana2006.pythonanywhere.com/stream/HBO Family.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Family?token=12345
 #EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="Peliculas",HBO Plus
-https://tatiana2006.pythonanywhere.com/stream/HBO Plus.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Plus?token=12345
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="Peliculas",HBO Signature
-https://tatiana2006.pythonanywhere.com/stream/HBO Signature.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Signature?token=12345
 #EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas",HBO Xtreme
-https://tatiana2006.pythonanywhere.com/stream/HBO Xtreme.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Xtreme?token=12345
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="Entretenimiento",HGTV
-https://tatiana2006.pythonanywhere.com/stream/HGTV.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HGTV?token=12345
 #EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/100px-History_%282021%29.svg.png" group-title="Entretenimiento",History Channel
-https://tatiana2006.pythonanywhere.com/stream/History Channel.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/History Channel?token=12345
 #EXTINF:-1 tvg-id="estrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Canal de las Estrellas
-https://tatiana2006.pythonanywhere.com/stream/Canal de las Estrellas.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Canal de las Estrellas?token=12345
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Entretenimiento",Discovery Science
-https://tatiana2006.pythonanywhere.com/stream/Discovery Science.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Discovery Science?token=12345
 #EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="Peliculas",HBO Mundi
-https://tatiana2006.pythonanywhere.com/stream/HBO Mundi.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Mundi?token=12345
 #EXTINF:-1 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="Peliculas",HBO Pop
-https://tatiana2006.pythonanywhere.com/stream/HBO Pop.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/HBO Pop?token=12345
 #EXTINF:-1 tvg-id="natgeo" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entretenimiento",Natgeo
-https://tatiana2006.pythonanywhere.com/stream/Natgeo.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Natgeo?token=12345
 #EXTINF:-1 tvg-id="sonymovies" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Peliculas",Sony Movies
-https://tatiana2006.pythonanywhere.com/stream/Sony Movies.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Sony Movies?token=12345
 #EXTINF:-1 tvg-id="starchnne" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="Entretenimiento",Star Channel
-https://tatiana2006.pythonanywhere.com/stream/Star Channel.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Star Channel?token=12345
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/200px-Logo_de_Tooncast.svg.png" group-title="Infantiles",Tooncast
-https://tatiana2006.pythonanywhere.com/stream/Tooncast.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Tooncast?token=12345
 #EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/125px-MTV_2021_%28brand_version%29.svg.png" group-title="Musica",MTV
-https://tatiana2006.pythonanywhere.com/stream/MTV.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/MTV?token=12345
 #EXTINF:-1 tvg-id="mtv80" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/150px-MTV_80s_2022.png" group-title="Musica",MTV 80S
-https://tatiana2006.pythonanywhere.com/stream/MTV 80S.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/MTV 80S?token=12345
 #EXTINF:-1 tvg-id="nick" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantiles",Nick
-https://tatiana2006.pythonanywhere.com/stream/Nick.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Nick?token=12345
 #EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/180px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantiles",Nick Jr
-https://tatiana2006.pythonanywhere.com/stream/Nick Jr.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Nick Jr?token=12345
 #EXTINF:-1 tvg-id="paramount" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/250px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Peliculas",Paramount
-https://tatiana2006.pythonanywhere.com/stream/Paramount.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Paramount?token=12345
 #EXTINF:-1 tvg-id="sony" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entretenimiento",Sony
-https://tatiana2006.pythonanywhere.com/stream/Sony.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Sony?token=12345
 #EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1518.png" group-title="Peliculas",Space
-https://tatiana2006.pythonanywhere.com/stream/Space.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Space?token=12345
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/293px-StudioUniversal2016.png" group-title="Peliculas",Studio Universal
-https://tatiana2006.pythonanywhere.com/stream/Studio Universal.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Studio Universal?token=12345
 #EXTINF:-1 tvg-id="usa" tvg-name="USA Network Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",USA Network Latino
-https://tatiana2006.pythonanywhere.com/stream/USA Network Latino.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/USA Network Latino?token=12345
 #EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="Entretenimiento",TCM
-https://tatiana2006.pythonanywhere.com/stream/TCM.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/TCM?token=12345
 #EXTINF:-1 tvg-id="telemundointernacional" tvg-name="Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo Internacional
-https://tatiana2006.pythonanywhere.com/stream/Telemundo Internacional.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Telemundo Internacional?token=12345
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Peliculas",TNT
-https://tatiana2006.pythonanywhere.com/stream/TNT.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/TNT?token=12345
 #EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
-https://tatiana2006.pythonanywhere.com/stream/TNT Series.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/TNT Series?token=12345
 #EXTINF:-1 tvg-id="universalchannel" tvg-name="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/230px-Universal_TV_logo.svg.png" group-title="Peliculas",Universal Channel
-https://tatiana2006.pythonanywhere.com/stream/Universal Channel.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Universal Channel?token=12345
 #EXTINF:-1 tvg-id="universalcinema" tvg-name="Universal Cinema" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="Peliculas",Universal Cinema
-https://tatiana2006.pythonanywhere.com/stream/Universal Cinema.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Universal Cinema?token=12345
 #EXTINF:-1 tvg-id="universalcomedy" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="Peliculas",Universal Comedy
-https://tatiana2006.pythonanywhere.com/stream/Universal Comedy.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Universal Comedy?token=12345
 #EXTINF:-1 tvg-id="universalcrime" tvg-name="Universal Crime" tvg-logo="https://i.imgur.com/okjyXsZ.png" group-title="Peliculas",Universal Crime
-https://tatiana2006.pythonanywhere.com/stream/Universal Crime.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Universal Crime?token=12345
 #EXTINF:-1 tvg-id="warner" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entretenimiento",Warner
-https://tatiana2006.pythonanywhere.com/stream/Warner.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Warner?token=12345
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
-https://tatiana2006.pythonanywhere.com/stream/ESPN.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/ESPN?token=12345
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-https://tatiana2006.pythonanywhere.com/stream/ESPN 2.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/ESPN 2?token=12345
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3
-https://tatiana2006.pythonanywhere.com/stream/ESPN 3.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/ESPN 3?token=12345
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/190px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-https://tatiana2006.pythonanywhere.com/stream/ESPN 4.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/ESPN 4?token=12345
 #EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX Sports
-https://tatiana2006.pythonanywhere.com/stream/FOX Sports.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/FOX Sports?token=12345
 #EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/180px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",FOX Sports 2
-https://tatiana2006.pythonanywhere.com/stream/FOX Sports 2.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/FOX Sports 2?token=12345
 #EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/180px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",FOX Sports 3
-https://tatiana2006.pythonanywhere.com/stream/FOX Sports 3.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/FOX Sports 3?token=12345
 #EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/150px-Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-https://tatiana2006.pythonanywhere.com/stream/Fox Sports Premium.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Fox Sports Premium?token=12345
 #EXTINF:-1 tvg-id="caracolinternacional" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caracol_Internacional_2023.png/190px-Caracol_Internacional_2023.png" group-title="Entretenimiento",Caracol Internacional
-https://tatiana2006.pythonanywhere.com/stream/Caracol Internacional.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Caracol Internacional?token=12345
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entretenimiento",AMC
-https://tatiana2006.pythonanywhere.com/stream/AMC.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/AMC?token=12345
 #EXTINF:-1 tvg-id="tvchile" tvg-name="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/190px-Logotipo_de_TV_Chile.svg.png" group-title="Entretenimiento",TV Chile
-https://tatiana2006.pythonanywhere.com/stream/TV Chile.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/TV Chile?token=12345
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entretenimiento",Animal Planet
-https://tatiana2006.pythonanywhere.com/stream/Animal Planet.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Animal Planet?token=12345
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento",AXN
-https://tatiana2006.pythonanywhere.com/stream/AXN.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/AXN?token=12345
 #EXTINF:-1 tvg-id="ae" tvg-name="A E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A E
-https://tatiana2006.pythonanywhere.com/stream/A E.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/A E?token=12345
 #EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Entretenimiento",History 2
-https://tatiana2006.pythonanywhere.com/stream/History 2.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/History 2?token=12345
 #EXTINF:-1 tvg-id="rt" tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT Español
-https://tatiana2006.pythonanywhere.com/stream/RT Español.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/RT Español?token=12345
 #EXTINF:-1 tvg-id="goltv" tvg-name="GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
-https://tatiana2006.pythonanywhere.com/stream/GolTV.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/GolTV?token=12345
 #EXTINF:-1 tvg-id="lared" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
-https://tatiana2006.pythonanywhere.com/stream/La Red.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/La Red?token=12345
 #EXTINF:-1 tvg-id="megatv" tvg-name="Mega TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/145px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega TV
-https://tatiana2006.pythonanywhere.com/stream/Mega TV.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Mega TV?token=12345
 #EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/200px-Emblema_del_Canal_13_Chile.svg.png" group-title="Entretenimiento",Canal 13
-https://tatiana2006.pythonanywhere.com/stream/Canal 13.m3u8?token=12345
+https://tatiana2006.pythonanywhere.com/stream/Canal 13?token=12345
 #EXTINF:-1 tvg-id="chilevision" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Entretenimiento",Chilevision
-https://tatiana2006.pythonanywhere.com/stream/Chilevision.m3u8?token=12345
-
+https://tatiana2006.pythonanywhere.com/stream/Chilevision?token=12345
+#EXTINF:-1 tvg-id="tdn" tvg-name="TDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/azteca-mx.png" group-title="Deportes",TDN
+https://tatiana2006.pythonanywhere.com/stream/TDN?token=12345
